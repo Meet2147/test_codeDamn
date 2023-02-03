@@ -1,0 +1,2 @@
+tabs: ['hello.py']
+run-button: python3 $$file
